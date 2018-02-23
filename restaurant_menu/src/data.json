@@ -1,0 +1,58 @@
+[
+  {
+  "Starters": [
+    {
+    "name": "Soup of the day",
+    "price": "3"
+    },
+    {
+    "name": "Pâté",
+    "price": "5"
+    },
+    {
+    "name": "Bruschetta",
+    "price": "4.50"
+    },
+    {
+    "name": "Prawn cocktail",
+    "price": "6"
+    }
+  ],
+  "MainCourse": [
+    {
+    "name": "Steak",
+    "price": "18"
+    },
+    {
+    "name": "Meatballs",
+    "price": "11.5"
+    },
+    {
+    "name": "Salmon fillet",
+    "price": "14"
+    },
+    {
+    "name": "Vegetarian lasagna",
+    "price": "12"
+    }
+  ],
+  "Desserts": [
+    {
+    "name": "Sticky toffee pudding",
+    "price": "4"
+    },
+    {
+    "name": "Tiramisu",
+    "price": "4.5"
+    },
+    {
+    "name": "Cheesecake",
+    "price": "4"
+    },
+    {
+    "name": "Ice cream",
+    "price": "3.50"
+    }
+  ]
+}
+]
